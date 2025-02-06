@@ -13,7 +13,7 @@
 	<artifactId>dream-shops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dream-shops</name>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<description> A simple eCommerce demo app</description>
 	<url/>
